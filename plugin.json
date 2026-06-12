@@ -1,0 +1,15 @@
+{
+    "id": "falixnodes-theme",
+    "name": "FalixNodes Theme",
+    "author": "M4xi2312",
+    "version": "1.0.0",
+    "description": "Theme inspired by the FalixNodes panel style for Pelican Panel. Uses blue accents, dark navy backgrounds and clean modern UI colors.",
+    "category": "theme",
+    "url": "https://falixnodes.net",
+    "update_url": null,
+    "namespace": "FalixNodes\\Theme",
+    "class": "FalixNodesThemePlugin",
+    "panels": null,
+    "panel_version": null,
+    "composer_packages": null
+}
